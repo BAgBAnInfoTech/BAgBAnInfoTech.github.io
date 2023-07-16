@@ -1,2 +1,0 @@
-# bagbaninfotech.github.io
-Website
